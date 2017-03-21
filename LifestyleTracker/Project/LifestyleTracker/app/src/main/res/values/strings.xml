@@ -17,4 +17,16 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="action_settings"> "TEST"</string>
+    <string name="pref_title_sync_frequency">"TEST"</string>
+    <string name="pref_title_system_sync_settings">"TEST"</string>
+    <string name="pref_header_general">"TEST"</string>
+    <string name="pref_header_notifications">"TEST"</string>
+    <string name="pref_header_data_sync">"TEST"</string>
+    <string name="pref_title_new_message_notifications">"TEST"</string>
+    <string name="pref_title_ringtone">"TEST"</string>
+    <string name="pref_title_vibrate">"TEST"</string>
+    <string name="pref_sync_frequency_titles">"TEST"</string>
+    <string name="pref_sync_frequency_values">"TEST"</string>
+
 </resources>
