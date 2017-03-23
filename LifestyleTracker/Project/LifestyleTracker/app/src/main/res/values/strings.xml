@@ -30,6 +30,7 @@
     <string name="pref_sync_frequency_values">"TEST"</string>
     <string name="dummy_content">"TEST</string>
     <string name="dummy_button">"TEST</string>
-
+    <string name="title_activity_diet">"TEST</string>
+    <string name="pref_ringtone_silent">"TEST</string>
 
 </resources>
