@@ -1,5 +1,7 @@
 package practicum.otterbein.lifestyletracker;
 
+import android.app.Fragment;
+import android.app.FragmentManager;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.BottomNavigationView;
@@ -10,6 +12,8 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     private TextView mTextMessage;
+    private android.support.v4.app.Fragment fragment;
+    private FragmentManager fragmentManager;
 
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
             = new BottomNavigationView.OnNavigationItemSelectedListener() {
@@ -18,13 +22,16 @@ public class MainActivity extends AppCompatActivity {
         public boolean onNavigationItemSelected(@NonNull MenuItem item) {
             switch (item.getItemId()) {
                 case R.id.navigation_home:
-                    mTextMessage.setText(R.string.title_home);
+                    //mTextMessage.setText(R.string.title_dashboard);
+                    fragment = new DietFragment();
                     return true;
                 case R.id.navigation_dashboard:
-                    mTextMessage.setText(R.string.title_dashboard);
+                    //mTextMessage.setText(R.string.title_notifications);
+                    fragment = new ExerciseFragment();
                     return true;
                 case R.id.navigation_notifications:
-                    mTextMessage.setText(R.string.title_notifications);
+                    //mTextMessage.setText(R.string.title_settings);
+                    fragment = new SettingsFragment();
                     return true;
             }
             return false;
