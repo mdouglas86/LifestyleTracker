@@ -39,6 +39,11 @@
     <string name="dietTitleBar">"Diet"</string>
     <string name="title_activity_diet">Diet</string>
     <string name="foodName">"Enter Food Name"</string>
+    <string name="calories">"Enter number of calories"</string>
+    <string name="carbs">"Enter grams of carbohydrates"</string>
+    <string name="protein">"Enter grams of protein"</string>
+    <string name="sugar">"Enter grams of sugar"</string>
+    <string name="servingSize">"Enter serving size"</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -46,5 +51,7 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_action_bar">ActionBar</string>
+
+
 
 </resources>
