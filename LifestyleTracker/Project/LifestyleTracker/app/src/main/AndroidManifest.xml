@@ -35,13 +35,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".NavigationDrawer"
-            android:label="@string/title_activity_navigation_drawer"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
             android:name=".ActionBar"
             android:label="@string/title_activity_action_bar"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Exercise"></activity>
     </application>
 
 </manifest>
