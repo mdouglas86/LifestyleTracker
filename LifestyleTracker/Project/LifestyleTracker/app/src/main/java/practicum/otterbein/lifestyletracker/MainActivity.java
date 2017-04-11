@@ -25,12 +25,24 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+    public Button butt2;
+    public void init1() {
+        butt2 = (Button) findViewById(R.id.butt2);
+        butt2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this, Exercise.class));
+
+            }
+        });
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         init();
+        init1();
 
     }
 
