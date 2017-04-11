@@ -3,7 +3,7 @@ package practicum.otterbein.lifestyletracker;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class DietActivity extends AppCompatActivity {
+public class Diet extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

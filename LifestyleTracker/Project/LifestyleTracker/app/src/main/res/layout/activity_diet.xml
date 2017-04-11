@@ -1,73 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="practicum.otterbein.lifestyletracker.DietActivity">
+    tools:context="practicum.otterbein.lifestyletracker.Diet">
 
-    <EditText
-        android:id="@+id/foodItem"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:text="@string/foodName"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="73dp" />
-
-
-    <EditText
-        android:id="@+id/servingSizeTxt"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/servingSize"
-        android:inputType="textPersonName"
-        tools:ignore="TextFields" />
-
-    <EditText
-        android:id="@+id/calories"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:text="@string/calories"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="73dp" />
-
-    <EditText
-        android:id="@+id/carbs"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:text="@string/carbs"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="73dp" />
-
-    <EditText
-        android:id="@+id/protein"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:text="@string/protein"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="73dp" />
-
-    <EditText
-    android:id="@+id/sugar"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:ems="10"
-    android:inputType="textPersonName"
-    android:text="@string/sugar"
-    tools:layout_editor_absoluteX="16dp"
-    tools:layout_editor_absoluteY="73dp" />
-
-
-
-
-
-
-</TableLayout>
+</android.support.constraint.ConstraintLayout>
