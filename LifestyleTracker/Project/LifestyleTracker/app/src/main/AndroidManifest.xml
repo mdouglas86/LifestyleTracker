@@ -24,21 +24,11 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Diet"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_diet"
-            android:theme="@style/FullscreenTheme">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity
             android:name=".ActionBar"
             android:label="@string/title_activity_action_bar"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".Exercise"></activity>
+        <activity android:name=".Exercise" />
+        <activity android:name=".Diet1"></activity>
     </application>
 
 </manifest>
