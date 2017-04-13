@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Yashi\\Documents\\COMP 4100\\LifestyleTracker\\LifestyleTracker\\Project\\LifestyleTracker\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Yashi\\.android\\build-cache\\57a30ef11065b39b0f3787ccb19740320466846a\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

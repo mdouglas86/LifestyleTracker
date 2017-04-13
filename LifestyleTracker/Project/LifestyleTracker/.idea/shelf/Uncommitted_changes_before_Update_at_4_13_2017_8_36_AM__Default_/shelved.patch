@@ -1,0 +1,174 @@
+Index: .idea/libraries/exposed_instrumentation_api_publish_0_5.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/exposed_instrumentation_api_publish_0_5.xml	(date 1492086206000)
++++ .idea/libraries/exposed_instrumentation_api_publish_0_5.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: .idea/libraries/support_core_ui_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/support_core_ui_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/support_core_ui_25_2_0.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: .idea/libraries/support_fragment_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/support_fragment_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/support_fragment_25_2_0.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: .idea/libraries/support_media_compat_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/support_media_compat_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/support_media_compat_25_2_0.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: .idea/libraries/support_vector_drawable_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/support_vector_drawable_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/support_vector_drawable_25_2_0.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: build.gradle
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- build.gradle	(date 1492086206000)
++++ build.gradle	(revision )
+@@ -5,7 +5,7 @@
+         jcenter()
+     }
+     dependencies {
+-        classpath 'com.android.tools.build:gradle:2.3.0'
++        classpath 'com.android.tools.build:gradle:2.3.1'
+ 
+         // NOTE: Do not place your application dependencies here; they belong
+         // in the individual module build.gradle files
+Index: .idea/libraries/support_compat_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/support_compat_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/support_compat_25_2_0.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: local.properties
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- local.properties	(date 1492086206000)
++++ local.properties	(revision )
+@@ -7,5 +7,5 @@
+ # Location of the SDK. This is only used by Gradle.
+ # For customization when using a Version Control System, please read the
+ # header note.
+-#Tue Apr 04 08:56:11 EDT 2017
++#Thu Apr 13 08:25:41 EDT 2017
+ sdk.dir=C\:\\Users\\Yashi\\AppData\\Local\\Android\\Sdk
+Index: .idea/libraries/support_core_utils_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/support_core_utils_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/support_core_utils_25_2_0.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: .idea/libraries/design_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/design_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/design_25_2_0.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: .idea/libraries/runner_0_5.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/runner_0_5.xml	(date 1492086206000)
++++ .idea/libraries/runner_0_5.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: .idea/libraries/animated_vector_drawable_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/animated_vector_drawable_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/animated_vector_drawable_25_2_0.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: .idea/libraries/appcompat_v7_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/appcompat_v7_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/appcompat_v7_25_2_0.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: .idea/libraries/transition_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/transition_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/transition_25_2_0.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: .idea/libraries/espresso_idling_resource_2_2_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/espresso_idling_resource_2_2_2.xml	(date 1492086206000)
++++ .idea/libraries/espresso_idling_resource_2_2_2.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: .idea/libraries/support_v4_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/support_v4_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/support_v4_25_2_0.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: .idea/libraries/constraint_layout_1_0_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/constraint_layout_1_0_1.xml	(date 1492086206000)
++++ .idea/libraries/constraint_layout_1_0_1.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: .idea/libraries/espresso_core_2_2_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/espresso_core_2_2_2.xml	(date 1492086206000)
++++ .idea/libraries/espresso_core_2_2_2.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: .idea/libraries/recyclerview_v7_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/recyclerview_v7_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/recyclerview_v7_25_2_0.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: .idea/libraries/rules_0_5.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/rules_0_5.xml	(date 1492086206000)
++++ .idea/libraries/rules_0_5.xml	(revision )
+@@ -1,0 +1,0 @@

@@ -28,7 +28,9 @@
             android:label="@string/title_activity_action_bar"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".Exercise" />
-        <activity android:name=".Diet1"></activity>
+        <activity android:name=".Diet1" />
+        <activity android:name=".Goals" />
+        <activity android:name=".Settings"></activity>
     </application>
 
 </manifest>

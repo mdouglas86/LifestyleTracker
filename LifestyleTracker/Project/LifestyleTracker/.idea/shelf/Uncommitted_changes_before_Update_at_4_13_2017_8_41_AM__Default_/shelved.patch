@@ -1,0 +1,373 @@
+Index: .idea/libraries/exposed_instrumentation_api_publish_0_5.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/exposed_instrumentation_api_publish_0_5.xml	(date 1492086206000)
++++ .idea/libraries/exposed_instrumentation_api_publish_0_5.xml	(revision )
+@@ -1,8 +1,8 @@
+ <component name="libraryTable">
+   <library name="exposed-instrumentation-api-publish-0.5">
+     <CLASSES>
+-      <root url="jar://$USER_HOME$/.android/build-cache/e8e21b023083f769884d7b21a703da4040ccaf97/output/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.android/build-cache/e8e21b023083f769884d7b21a703da4040ccaf97/output/res" />
++      <root url="jar://$USER_HOME$/.android/build-cache/578e70e90f81203b2b3d98bb003d20b9cea44dec/output/jars/classes.jar!/" />
++      <root url="file://$USER_HOME$/.android/build-cache/578e70e90f81203b2b3d98bb003d20b9cea44dec/output/res" />
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+\ No newline at end of file
+Index: .idea/libraries/support_core_ui_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/support_core_ui_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/support_core_ui_25_2_0.xml	(revision )
+@@ -1,8 +1,8 @@
+ <component name="libraryTable">
+   <library name="support-core-ui-25.2.0">
+     <CLASSES>
+-      <root url="file://$USER_HOME$/.android/build-cache/57a5e03826db249b9a28274cdf6fe194baed5242/output/res" />
+-      <root url="jar://$USER_HOME$/.android/build-cache/57a5e03826db249b9a28274cdf6fe194baed5242/output/jars/classes.jar!/" />
++      <root url="file://$USER_HOME$/.android/build-cache/f6526ff8de7bac9f26b97c91d0f31c818111a6b7/output/res" />
++      <root url="jar://$USER_HOME$/.android/build-cache/f6526ff8de7bac9f26b97c91d0f31c818111a6b7/output/jars/classes.jar!/" />
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+\ No newline at end of file
+Index: .idea/libraries/support_fragment_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/support_fragment_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/support_fragment_25_2_0.xml	(revision )
+@@ -1,8 +1,8 @@
+ <component name="libraryTable">
+   <library name="support-fragment-25.2.0">
+     <CLASSES>
+-      <root url="file://$USER_HOME$/.android/build-cache/aec9439c55b1178b7362137e4baf810b971c1c54/output/res" />
+-      <root url="jar://$USER_HOME$/.android/build-cache/aec9439c55b1178b7362137e4baf810b971c1c54/output/jars/classes.jar!/" />
++      <root url="file://$USER_HOME$/.android/build-cache/62e7b131e48fcbd16c53b540bb6ade504a5be8c9/output/res" />
++      <root url="jar://$USER_HOME$/.android/build-cache/62e7b131e48fcbd16c53b540bb6ade504a5be8c9/output/jars/classes.jar!/" />
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+\ No newline at end of file
+Index: .idea/libraries/support_media_compat_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/support_media_compat_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/support_media_compat_25_2_0.xml	(revision )
+@@ -1,8 +1,8 @@
+ <component name="libraryTable">
+   <library name="support-media-compat-25.2.0">
+     <CLASSES>
+-      <root url="file://$USER_HOME$/.android/build-cache/791d7d94d7de63a8b3186509644ba049ee9cebc1/output/res" />
+-      <root url="jar://$USER_HOME$/.android/build-cache/791d7d94d7de63a8b3186509644ba049ee9cebc1/output/jars/classes.jar!/" />
++      <root url="jar://$USER_HOME$/.android/build-cache/ef14639275f13377d259ebf05b445564bccba8d6/output/jars/classes.jar!/" />
++      <root url="file://$USER_HOME$/.android/build-cache/ef14639275f13377d259ebf05b445564bccba8d6/output/res" />
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+\ No newline at end of file
+Index: .idea/libraries/support_vector_drawable_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/support_vector_drawable_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/support_vector_drawable_25_2_0.xml	(revision )
+@@ -1,8 +1,8 @@
+ <component name="libraryTable">
+   <library name="support-vector-drawable-25.2.0">
+     <CLASSES>
+-      <root url="jar://$USER_HOME$/.android/build-cache/67ce70bd23fd8a630e97be825e72629b989301b1/output/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.android/build-cache/67ce70bd23fd8a630e97be825e72629b989301b1/output/res" />
++      <root url="jar://$USER_HOME$/.android/build-cache/e7ee4c234b5e1010542e50005278a5d168b53748/output/jars/classes.jar!/" />
++      <root url="file://$USER_HOME$/.android/build-cache/e7ee4c234b5e1010542e50005278a5d168b53748/output/res" />
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+\ No newline at end of file
+Index: build.gradle
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- build.gradle	(date 1492086206000)
++++ build.gradle	(revision )
+@@ -5,7 +5,7 @@
+         jcenter()
+     }
+     dependencies {
+-        classpath 'com.android.tools.build:gradle:2.3.0'
++        classpath 'com.android.tools.build:gradle:2.3.1'
+ 
+         // NOTE: Do not place your application dependencies here; they belong
+         // in the individual module build.gradle files
+Index: .idea/libraries/support_compat_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/support_compat_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/support_compat_25_2_0.xml	(revision )
+@@ -1,8 +1,8 @@
+ <component name="libraryTable">
+   <library name="support-compat-25.2.0">
+     <CLASSES>
+-      <root url="file://$USER_HOME$/.android/build-cache/20aa2809061c271ed2a5e415722880d73d7dafc8/output/res" />
+-      <root url="jar://$USER_HOME$/.android/build-cache/20aa2809061c271ed2a5e415722880d73d7dafc8/output/jars/classes.jar!/" />
++      <root url="jar://$USER_HOME$/.android/build-cache/f961a668fa175cfdb67a8db61e45cc455633b849/output/jars/classes.jar!/" />
++      <root url="file://$USER_HOME$/.android/build-cache/f961a668fa175cfdb67a8db61e45cc455633b849/output/res" />
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+\ No newline at end of file
+Index: local.properties
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1252
+===================================================================
+--- local.properties	(date 1492086206000)
++++ local.properties	(revision )
+@@ -7,5 +7,5 @@
+ # Location of the SDK. This is only used by Gradle.
+ # For customization when using a Version Control System, please read the
+ # header note.
+-#Tue Apr 04 08:56:11 EDT 2017
+-sdk.dir=C\:\\Users\\Yashi\\AppData\\Local\\Android\\Sdk
++#Tue Apr 11 08:03:52 EDT 2017
++sdk.dir=C\:\\Users\\Matt\\AppData\\Local\\Android\\Sdk
+Index: .idea/libraries/support_core_utils_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/support_core_utils_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/support_core_utils_25_2_0.xml	(revision )
+@@ -1,8 +1,8 @@
+ <component name="libraryTable">
+   <library name="support-core-utils-25.2.0">
+     <CLASSES>
+-      <root url="jar://$USER_HOME$/.android/build-cache/ec7f05f0ca5b00281fc82869cce842804c33eadf/output/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.android/build-cache/ec7f05f0ca5b00281fc82869cce842804c33eadf/output/res" />
++      <root url="file://$USER_HOME$/.android/build-cache/bdd43efaeac62ac975d17ed01d9f0cedb49d4d50/output/res" />
++      <root url="jar://$USER_HOME$/.android/build-cache/bdd43efaeac62ac975d17ed01d9f0cedb49d4d50/output/jars/classes.jar!/" />
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+\ No newline at end of file
+Index: .idea/libraries/design_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/design_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/design_25_2_0.xml	(revision )
+@@ -1,8 +1,8 @@
+ <component name="libraryTable">
+   <library name="design-25.2.0">
+     <CLASSES>
+-      <root url="file://$USER_HOME$/.android/build-cache/f831341064c8625408234d660816cb08461ae78b/output/res" />
+-      <root url="jar://$USER_HOME$/.android/build-cache/f831341064c8625408234d660816cb08461ae78b/output/jars/classes.jar!/" />
++      <root url="file://$USER_HOME$/.android/build-cache/882f34598628263e6802cdf463e7668b1cd93825/output/res" />
++      <root url="jar://$USER_HOME$/.android/build-cache/882f34598628263e6802cdf463e7668b1cd93825/output/jars/classes.jar!/" />
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+\ No newline at end of file
+Index: .idea/libraries/runner_0_5.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/runner_0_5.xml	(date 1492086206000)
++++ .idea/libraries/runner_0_5.xml	(revision )
+@@ -1,8 +1,8 @@
+ <component name="libraryTable">
+   <library name="runner-0.5">
+     <CLASSES>
+-      <root url="file://$USER_HOME$/.android/build-cache/189e2b8166db670dc8fdf345846b3efd7193b9a9/output/res" />
+-      <root url="jar://$USER_HOME$/.android/build-cache/189e2b8166db670dc8fdf345846b3efd7193b9a9/output/jars/classes.jar!/" />
++      <root url="jar://$USER_HOME$/.android/build-cache/af16df291a7bb6dbb189617bf0c1938e8c786a67/output/jars/classes.jar!/" />
++      <root url="file://$USER_HOME$/.android/build-cache/af16df291a7bb6dbb189617bf0c1938e8c786a67/output/res" />
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+\ No newline at end of file
+Index: .idea/libraries/animated_vector_drawable_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/animated_vector_drawable_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/animated_vector_drawable_25_2_0.xml	(revision )
+@@ -1,8 +1,8 @@
+ <component name="libraryTable">
+   <library name="animated-vector-drawable-25.2.0">
+     <CLASSES>
+-      <root url="file://$USER_HOME$/.android/build-cache/0c579a69781b04c5ed1f61f5753f02f92f852e1e/output/res" />
+-      <root url="jar://$USER_HOME$/.android/build-cache/0c579a69781b04c5ed1f61f5753f02f92f852e1e/output/jars/classes.jar!/" />
++      <root url="jar://$USER_HOME$/.android/build-cache/f7c62bb162aa2cda8eb2bfaf38e24eefc079d3e5/output/jars/classes.jar!/" />
++      <root url="file://$USER_HOME$/.android/build-cache/f7c62bb162aa2cda8eb2bfaf38e24eefc079d3e5/output/res" />
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+\ No newline at end of file
+Index: .idea/libraries/appcompat_v7_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/appcompat_v7_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/appcompat_v7_25_2_0.xml	(revision )
+@@ -1,8 +1,8 @@
+ <component name="libraryTable">
+   <library name="appcompat-v7-25.2.0">
+     <CLASSES>
+-      <root url="jar://$USER_HOME$/.android/build-cache/a69381d011e14550767dd3e92bd6d5ecd093bde8/output/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.android/build-cache/a69381d011e14550767dd3e92bd6d5ecd093bde8/output/res" />
++      <root url="file://$USER_HOME$/.android/build-cache/744826b026bca67b17507ee32050a6f59c1218d7/output/res" />
++      <root url="jar://$USER_HOME$/.android/build-cache/744826b026bca67b17507ee32050a6f59c1218d7/output/jars/classes.jar!/" />
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+\ No newline at end of file
+Index: .idea/libraries/transition_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/transition_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/transition_25_2_0.xml	(revision )
+@@ -1,8 +1,8 @@
+ <component name="libraryTable">
+   <library name="transition-25.2.0">
+     <CLASSES>
+-      <root url="file://$USER_HOME$/.android/build-cache/2f313cfe34b82735c060548373602bd3d8999be3/output/res" />
+-      <root url="jar://$USER_HOME$/.android/build-cache/2f313cfe34b82735c060548373602bd3d8999be3/output/jars/classes.jar!/" />
++      <root url="jar://$USER_HOME$/.android/build-cache/5fd8811b8c8ee93ab7c2f7eeeba309333567bca8/output/jars/classes.jar!/" />
++      <root url="file://$USER_HOME$/.android/build-cache/5fd8811b8c8ee93ab7c2f7eeeba309333567bca8/output/res" />
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+\ No newline at end of file
+Index: .idea/libraries/espresso_idling_resource_2_2_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/espresso_idling_resource_2_2_2.xml	(date 1492086206000)
++++ .idea/libraries/espresso_idling_resource_2_2_2.xml	(revision )
+@@ -1,8 +1,8 @@
+ <component name="libraryTable">
+   <library name="espresso-idling-resource-2.2.2">
+     <CLASSES>
+-      <root url="file://$USER_HOME$/.android/build-cache/f6df34691193df8dabf41975c738130f777125da/output/res" />
+-      <root url="jar://$USER_HOME$/.android/build-cache/f6df34691193df8dabf41975c738130f777125da/output/jars/classes.jar!/" />
++      <root url="jar://$USER_HOME$/.android/build-cache/3c9a495414cdce91b36a5d5423f2a9aab573bef7/output/jars/classes.jar!/" />
++      <root url="file://$USER_HOME$/.android/build-cache/3c9a495414cdce91b36a5d5423f2a9aab573bef7/output/res" />
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+\ No newline at end of file
+Index: .idea/libraries/support_v4_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/support_v4_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/support_v4_25_2_0.xml	(revision )
+@@ -1,8 +1,8 @@
+ <component name="libraryTable">
+   <library name="support-v4-25.2.0">
+     <CLASSES>
+-      <root url="file://$USER_HOME$/.android/build-cache/d179d0120a81a2a5023d8d2dabdad1cf16e3732a/output/res" />
+-      <root url="jar://$USER_HOME$/.android/build-cache/d179d0120a81a2a5023d8d2dabdad1cf16e3732a/output/jars/classes.jar!/" />
++      <root url="jar://$USER_HOME$/.android/build-cache/13668a43543a311c8aa9fff0882102d27cab84af/output/jars/classes.jar!/" />
++      <root url="file://$USER_HOME$/.android/build-cache/13668a43543a311c8aa9fff0882102d27cab84af/output/res" />
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES />
+\ No newline at end of file
+Index: .idea/libraries/constraint_layout_1_0_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/constraint_layout_1_0_1.xml	(date 1492086206000)
++++ .idea/libraries/constraint_layout_1_0_1.xml	(revision )
+@@ -1,8 +1,8 @@
+ <component name="libraryTable">
+   <library name="constraint-layout-1.0.1">
+     <CLASSES>
+-      <root url="jar://$USER_HOME$/.android/build-cache/017889748076df627c56828b89c59e8c39245077/output/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.android/build-cache/017889748076df627c56828b89c59e8c39245077/output/res" />
++      <root url="jar://$USER_HOME$/.android/build-cache/e10a1a230e91dcc5642b3103035479cabf1c0730/output/jars/classes.jar!/" />
++      <root url="file://$USER_HOME$/.android/build-cache/e10a1a230e91dcc5642b3103035479cabf1c0730/output/res" />
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES />
+\ No newline at end of file
+Index: .idea/libraries/espresso_core_2_2_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/espresso_core_2_2_2.xml	(date 1492086206000)
++++ .idea/libraries/espresso_core_2_2_2.xml	(revision )
+@@ -1,8 +1,8 @@
+ <component name="libraryTable">
+   <library name="espresso-core-2.2.2">
+     <CLASSES>
+-      <root url="file://$USER_HOME$/.android/build-cache/94050363d6498e0b29886f0f434bbd4f48d26ca0/output/res" />
+-      <root url="jar://$USER_HOME$/.android/build-cache/94050363d6498e0b29886f0f434bbd4f48d26ca0/output/jars/classes.jar!/" />
++      <root url="jar://$USER_HOME$/.android/build-cache/783d70bc0b8b3595a3d7420a591ef42cc3c94ed0/output/jars/classes.jar!/" />
++      <root url="file://$USER_HOME$/.android/build-cache/783d70bc0b8b3595a3d7420a591ef42cc3c94ed0/output/res" />
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+\ No newline at end of file
+Index: .idea/libraries/recyclerview_v7_25_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/recyclerview_v7_25_2_0.xml	(date 1492086206000)
++++ .idea/libraries/recyclerview_v7_25_2_0.xml	(revision )
+@@ -1,8 +1,8 @@
+ <component name="libraryTable">
+   <library name="recyclerview-v7-25.2.0">
+     <CLASSES>
+-      <root url="file://$USER_HOME$/.android/build-cache/09be0a0a232480b1dcba15e2f09360574b86f8cf/output/res" />
+-      <root url="jar://$USER_HOME$/.android/build-cache/09be0a0a232480b1dcba15e2f09360574b86f8cf/output/jars/classes.jar!/" />
++      <root url="jar://$USER_HOME$/.android/build-cache/045c98adeb617cd46fba81433be712a2c7200853/output/jars/classes.jar!/" />
++      <root url="file://$USER_HOME$/.android/build-cache/045c98adeb617cd46fba81433be712a2c7200853/output/res" />
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+\ No newline at end of file
+Index: .idea/libraries/rules_0_5.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/rules_0_5.xml	(date 1492086206000)
++++ .idea/libraries/rules_0_5.xml	(revision )
+@@ -1,8 +1,8 @@
+ <component name="libraryTable">
+   <library name="rules-0.5">
+     <CLASSES>
+-      <root url="jar://$USER_HOME$/.android/build-cache/57a30ef11065b39b0f3787ccb19740320466846a/output/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.android/build-cache/57a30ef11065b39b0f3787ccb19740320466846a/output/res" />
++      <root url="file://$USER_HOME$/.android/build-cache/8625ef11c27b3716633bad1586544752d4b5f2b1/output/res" />
++      <root url="jar://$USER_HOME$/.android/build-cache/8625ef11c27b3716633bad1586544752d4b5f2b1/output/jars/classes.jar!/" />
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+\ No newline at end of file

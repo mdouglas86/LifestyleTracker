@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Yashi\\Documents\\COMP 4100\\LifestyleTracker\\LifestyleTracker\\Project\\LifestyleTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Yashi\\.android\\build-cache\\a69381d011e14550767dd3e92bd6d5ecd093bde8\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yashi\\Documents\\COMP 4100\\LifestyleTracker\\LifestyleTracker\\Project\\LifestyleTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Yashi\\.android\\build-cache\\a69381d011e14550767dd3e92bd6d5ecd093bde8\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yashi\\Documents\\COMP 4100\\LifestyleTracker\\LifestyleTracker\\Project\\LifestyleTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Yashi\\.android\\build-cache\\a69381d011e14550767dd3e92bd6d5ecd093bde8\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yashi\\Documents\\COMP 4100\\LifestyleTracker\\LifestyleTracker\\Project\\LifestyleTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Yashi\\.android\\build-cache\\a69381d011e14550767dd3e92bd6d5ecd093bde8\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
