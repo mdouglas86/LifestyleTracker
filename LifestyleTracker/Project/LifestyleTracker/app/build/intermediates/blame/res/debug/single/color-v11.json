@@ -1,10 +1,18 @@
 [
     {
+        "merged": "C:\\Users\\Matt\\Documents\\COMP4100\\LifestyleTracker\\LifestyleTracker\\Project\\LifestyleTracker\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Matt\\.android\\build-cache\\744826b026bca67b17507ee32050a6f59c1218d7\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\Yashi\\Documents\\COMP 4100\\LifestyleTracker\\LifestyleTracker\\Project\\LifestyleTracker\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "C:\\Users\\Yashi\\.android\\build-cache\\a69381d011e14550767dd3e92bd6d5ecd093bde8\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\Yashi\\Documents\\COMP 4100\\LifestyleTracker\\LifestyleTracker\\Project\\LifestyleTracker\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
         "source": "C:\\Users\\Yashi\\.android\\build-cache\\a69381d011e14550767dd3e92bd6d5ecd093bde8\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matt\\Documents\\COMP4100\\LifestyleTracker\\LifestyleTracker\\Project\\LifestyleTracker\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Matt\\.android\\build-cache\\744826b026bca67b17507ee32050a6f59c1218d7\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     }
 ]

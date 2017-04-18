@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "C:\\Users\\Matt\\Documents\\COMP4100\\LifestyleTracker\\LifestyleTracker\\Project\\LifestyleTracker\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Matt\\.android\\build-cache\\8625ef11c27b3716633bad1586544752d4b5f2b1\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\Yashi\\Documents\\COMP 4100\\LifestyleTracker\\LifestyleTracker\\Project\\LifestyleTracker\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
